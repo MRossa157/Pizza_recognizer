@@ -12,7 +12,7 @@ The model was trained on a dataset of images of pizzas and non-pizzas. The model
 
 ## Evaluation
 
-The model was evaluated on a hold-out test set and achieved an accuracy of 87%. This means that the model correctly identified whether or not an image contained a pizza 87% of the time.
+The model was evaluated on a hold-out test set and achieved an accuracy of 84%. This means that the model correctly identified whether or not an image contained a pizza 84% of the time.
 
 ## Usage
 
